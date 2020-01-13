@@ -7599,7 +7599,7 @@ msgid "New York"
 msgstr "Nueva York"
 
 msgid "North Carolina"
-msgstr " Carolina del Norte"
+msgstr "Carolina del Norte"
 
 msgid "North Dakota"
 msgstr "Dakota del Norte"
